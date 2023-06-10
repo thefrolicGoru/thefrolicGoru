@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m a Data Scientist looking to collaborate on **Data related or Machine Learning projects **
 
 - 📫 How to reach me **gorugaurav17@gmail.com**
 
